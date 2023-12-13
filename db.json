@@ -1,9 +1,24 @@
 {
-  "product": [
-    { "id": 1, "name": "T-shirt", "class": "men" },
-    { "id": 2, "name": "Jean", "class": "men" },
-    { "id": 3, "name": "Coat", "class": "women" }
-  ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "department": [
+    {
+      "name": "Kinh tế",
+      "id": "1"
+    },
+    {
+      "name": "Sư phạm",
+      "id": "2"
+    },
+    {
+      "name": "Kế toán",
+      "id": "3"
+    },
+    {
+      "name": "Công nghệ thông tin",
+      "id": "4"
+    },
+    {
+      "name": "Dược",
+      "id": "5"
+    }
+  ]
 }
